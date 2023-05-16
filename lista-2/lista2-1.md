@@ -1,0 +1,3 @@
+A diferença entre (a) e (b) é que, enquanto (a) possui uma complexidade de tempo O(nˆ2) apenas no seu pior caso, podendo ter uma performance melhor nos outros casos, (b) possui uma performance igualmente ruim independente da instância do problema. Não há caso melhor nem pior do que O(n^2) em (b), enquanto que podem existir casos melhores do que O(n^2) em (a).
+
+A diferença entre (c) e (d) é que, enquanto (c) possui uma complexidade de tempo O(nˆ2) no seu melhor caso, sendo que em todos os outros casos a performance será pior, (d) possui essa complexidade para alguma instância qualquer, podendo ter uma performance melhor ou pior do que O(nˆ2) dependendo da instância do problema.
